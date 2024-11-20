@@ -1,6 +1,6 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=comm-webapps
+pkgname=chili-webapps
 pkgdesc="Installs and removes WebApps"
 provides=('biglinux-webapps')  # O novo pacote fornece as funcionalidades do antigo
 replaces=('biglinux-webapps')  # O novo pacote substitui o antigo
