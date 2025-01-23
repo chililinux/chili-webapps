@@ -15,7 +15,7 @@ depends=('bigbashview'
 	'ttf-lato')
 #makedepends=('')
 #optdepends=('')
-pkgver=$(date +%y.%m.%d)
+pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 arch=('any')
 license=('MIT')
