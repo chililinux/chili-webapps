@@ -3,17 +3,17 @@
   "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
 
 <Menu>
-    <Name>Webapps</Name>
+    <Name>Google</Name>
     <Menu>
-       <Name>Webapps</Name>
-        <Directory>web-apps.directory</Directory>
+       <Name>Google</Name>
+        <Directory>google-apps.directory</Directory>
         <Layout>
             <Merge type="menus" />
             <Merge type="files" />
-            <Menuname>Webapps</Menuname>
+            <Menuname>Google</Menuname>
         </Layout>
         <Include>
-            <Category>Webapps</Category>
+            <Category>Google</Category>
         </Include>
     </Menu>
 </Menu>
