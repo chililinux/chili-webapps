@@ -2,9 +2,9 @@
 
 pkgname=chili-webapps
 pkgdesc="Installs and removes WebApps"
-provides=('biglinux-webapps')  # O novo pacote fornece as funcionalidades do antigo
-replaces=('biglinux-webapps')  # O novo pacote substitui o antigo
-conflicts=('biglinux-webapps') # O novo pacote entra em conflito com o antigo
+#provides=('biglinux-webapps')  # O novo pacote fornece as funcionalidades do antigo
+#replaces=('biglinux-webapps')  # O novo pacote substitui o antigo
+#conflicts=('biglinux-webapps') # O novo pacote entra em conflito com o antigo
 depends=('bigbashview'
 	'python-bs4'
 	'python-requests'
